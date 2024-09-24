@@ -1,0 +1,141 @@
+#EXTM3U x-tvg-url="https://fastly.jsdelivr.net/gh/fanmingming/live@main/e.xml"
+#EXTINF:-1 tvg-name="盐城一套" tvg-logo="http://live.pic.gitv.tv/images/20221111/e8/e8171ed152c4b0718ef9f3223d0910d7.png" group-title="本地台",盐城一套
+http://ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-name="盐城二套" tvg-logo="http://live.pic.gitv.tv/images/20221111/39/39b258afab2ee6a1b132309e448dd557.png" group-title="本地台",盐城二套
+http://ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-name="盐城三套" tvg-logo="http://live.pic.gitv.tv/images/20221111/1e/1ee620a2b9997c2cee80175937c9bfaf.png" group-title="本地台",盐城三套
+http://ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://live.pic.gitv.tv/images/20190506/6d/_new_6d82380286ab7597310e99cac1697a23.png" group-title="央视",CCTV1
+http://ott.mobaibox.com/PLTV/1/224/3221227467/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://live.pic.gitv.tv/images/20191014/da/_new_da23c7054dcbc090f6b60e1c45bc9b0b.png" group-title="央视",CCTV2
+http://ott.mobaibox.com/PLTV/1/224/3221227543/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://live.pic.gitv.tv/images/20190506/68/_new_687ddacc050aaba1f97e4caa5609c432.png" group-title="央视",CCTV3
+http://ott.mobaibox.com/PLTV/1/224/3221227546/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://live.pic.gitv.tv/images/20190506/8d/_new_8de49bc05d61aa3adc17351a0ed5c290.png" group-title="央视",CCTV4
+http://ott.mobaibox.com/PLTV/1/224/3221227549/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://live.pic.gitv.tv/images/20190115/4e/_new_4ea75c65b1f97b1cea081816a3514736.png" group-title="央视",CCTV5
+http://ott.mobaibox.com/PLTV/4/224/3221227537/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://live.pic.gitv.tv/images/20190506/d3/_new_d3078caf448ff3250854f1f10b8f8bbd.png" group-title="央视",CCTV5+
+http://ott.mobaibox.com/PLTV/1/224/3221227502/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://live.pic.gitv.tv/images/20190506/a7/_new_a79e239fabb3c56cd6d4906ea1118da0.png" group-title="央视",CCTV6
+http://ott.mobaibox.com/PLTV/1/224/3221227505/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://live.pic.gitv.tv/images/20190808/39/_new_39e923bb598dd0251c1c4d19b7bbe0fa.png" group-title="央视",CCTV7
+http://ott.mobaibox.com/PLTV/4/224/3221228643/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://live.pic.gitv.tv/images/20190506/78/_new_78a744527f3a3835bd41a7fdc8e3d7da.png" group-title="央视",CCTV8
+http://ott.mobaibox.com/PLTV/1/224/3221227473/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://live.pic.gitv.tv/images/20211201/7e/7ea2ab2dd6307e7bd905945fc8c979c3.png" group-title="央视",CCTV9
+http://ott.mobaibox.com/PLTV/4/224/3221228758/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://image.gitv.tv/images/20190111/fanse/cctv-10.png" group-title="央视",CCTV10
+http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://live.pic.gitv.tv/images/20190827/4b/_new_4b5edc14c598bcfe1de2f082d9c39616.png" group-title="央视",CCTV11
+http://ott.mobaibox.com/PLTV/4/224/3221227384/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://image.gitv.tv/images/20190111/fanse/cctv-12.png" group-title="央视",CCTV12
+http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://live.pic.gitv.tv/images/20190827/7e/_new_7e6305d9ea34081d524ebb77982ef844.png" group-title="央视",CCTV13
+http://ott.mobaibox.com/PLTV/4/224/3221228649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://image.gitv.tv/images/20190111/fanse/cctv-14.png" group-title="央视",CCTV14
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://live.pic.gitv.tv/images/20190910/45/_new_45f7d05c96fb1059e24ba27ed6c21508.png" group-title="央视",CCTV15
+http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://live.pic.gitv.tv/images/20220120/07/0717eb35b772a5507b167ed75492ccd9.png" group-title="央视",CCTV16
+http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://live.pic.gitv.tv/images/20190905/d3/_new_d36afb0b293a4e8102352b2f98bf9bf5.png" group-title="央视",CCTV17
+http://ott.mobaibox.com/PLTV/4/224/3221228642/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://live.pic.gitv.tv/images/20190115/16/_new_16535105c74e918d141c6212f92257ad.png" group-title="央视",CGTN
+http://ott.mobaibox.com/PLTV/4/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/db/dba34feadeff1c495801c27d1683696c.png" group-title="卫视",东南卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/01/_new_012dd49d935547d79efae43dddeba732.png" group-title="卫视",东方卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/73/73bc3603790e037dc5f9788a952f118e.png" group-title="卫视",云南卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/5e/5e1ae8077816dea7a76f69691401e893.png" group-title="卫视",兵团卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/56/563cbb801b06889f58013b22f807f4bf.png" group-title="卫视",内蒙古卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/af/_new_afe29a1a9c2377427aa0e11657321778.png" group-title="卫视",北京卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://live.pic.gitv.tv/images/20211117/64/64f15d9b48046a6a3521dce43a8e8a82.png" group-title="卫视",卡酷少儿
+http://ott.mobaibox.com/PLTV/4/224/3221226305/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/09/098d66a7063d0f9f350831863c6cf56a.png" group-title="卫视",厦门卫视
+http://ott.mobaibox.com/PLTV/4/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://live.pic.gitv.tv/images/20211207/3d/3dcf7c5e9ac2c5dac637bcb575634d64.png" group-title="卫视",吉林卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://live.pic.gitv.tv/images/20220112/bf/bf0efaa5e9fc4ab182edc5eb48ff6b43.png" group-title="卫视",四川卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/22/_new_227a920785791cad756363e015274f60.png" group-title="卫视",天津卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227488/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/c1/c1f4b74c85285289d913674f084ad9cc.png" group-title="卫视",宁夏卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/ae/ae3a3795c556e6c957cadacae7974574.png" group-title="卫视",安多卫视
+http://ott.mobaibox.com/PLTV/4/224/3221226999/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/82/_new_8205d3fa6f2216beb2e31d4d3dccae82.png" group-title="卫视",安徽卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227558/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/c9/_new_c96134b5d7a4c0cf11e4185d8f9c7fa6.png" group-title="卫视",山东卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227517/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://live.pic.gitv.tv/images/20211117/46/4625b6df5eb795d6e40f918c83bfe255.png" group-title="卫视",山西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/af/_new_af2aed8583185d9c471c9af8ee13587e.png" group-title="卫视",广东卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227476/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://live.pic.gitv.tv/images/20211104/de/def9a8354d7e617376d373037c115ea9.png" group-title="卫视",广西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="http://live.pic.gitv.tv/images/20211116/7f/7ff90020ca379f130dc05bd365a67e2c.png" group-title="卫视",康巴卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227008/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="http://live.pic.gitv.tv/images/20211116/e7/e77a403b84ff837d8c8dfe135a13a3fc.png" group-title="卫视",延边卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227002/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/62/62b5cee93759517df9ca95927ae258db.png" group-title="卫视",新疆卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="http://live.pic.gitv.tv/images/20190819/da/_new_da60512b1d4f6cdfac69e33f4fa2a125.png" group-title="本地台",江苏休闲体育
+http://ott.mobaibox.com/PLTV/4/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="http://live.pic.gitv.tv/images/20211117/f4/f480160ecaec259b021969c3992df6cc.png" group-title="卫视",江苏优漫卡通
+http://ott.mobaibox.com/PLTV/4/224/3221225933/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/d2/_new_d23685fbb334232a2dca922e5fd6286e.png" group-title="卫视",江苏卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227552/index.m3u8
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="http://live.pic.gitv.tv/images/20190819/d4/_new_d48a9bde23e435870e6e7200618da071.png" group-title="本地台",江苏城市
+http://ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="http://live.pic.gitv.tv/images/20190819/ae/_new_ae04206d8969fcf76000957c463cd33d.png" group-title="本地台",江苏影视
+http://ott.mobaibox.com/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="http://live.pic.gitv.tv/images/20190819/64/_new_640dc39b7fa63c2d7f2649642320578e.png" group-title="本地台",江苏教育
+http://ott.mobaibox.com/PLTV/4/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="http://live.pic.gitv.tv/images/20240129/cb/cb70c0a27449e6c700476b20e542d0df.png" group-title="本地台",江苏新闻
+http://ott.mobaibox.com/PLTV/4/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="http://live.pic.gitv.tv/images/20190819/44/_new_44c968bc28be1d728bb8fa79d4ee93a5.png" group-title="本地台",江苏综艺
+http://ott.mobaibox.com/PLTV/4/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/29/296ddffbda6c17c5da3ab443e2f51768.png" group-title="卫视",江西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/9c/9c41602fada72970cbcf93540961772c.png" group-title="卫视",河北卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/12/12d4277524eb91bac79f783e27ca4f16.png" group-title="卫视",河南卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/28/_new_2811358ba992f52ad351022121bc975b.png" group-title="卫视",浙江卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://live.pic.gitv.tv/images/20220112/8f/8ffb91ab2ee29c13b94a1d5f4be0e161.png" group-title="卫视",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/ea/_new_eaae55048ab29c1c88b0fdc67f8521e3.png" group-title="卫视",深圳卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/cc/_new_cc88b7130bbf7c2c69a7912e0935e3e7.png" group-title="卫视",湖北卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227479/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/09/_new_09af680d9abbf1b207c3d53ae6dbe956.png" group-title="卫视",湖南卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="http://live.pic.gitv.tv/images/20231225/d5/d5e7c05c0c805590b2f909d7b93b2c64.png" group-title="卫视",炫动卡通
+http://ott.mobaibox.com/PLTV/4/224/3221226388/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://live.pic.gitv.tv/images/20211104/7b/7b5b4ff31a0640afdd42459da004825d.png" group-title="卫视",甘肃卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225846/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://live.pic.gitv.tv/images/20211102/cf/cf802f96252708f610f28b3f099940d1.png" group-title="卫视",西藏卫视
+http://ott.mobaibox.com/PLTV/4/224/3221226376/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://live.pic.gitv.tv/images/20220112/b0/b0b41596de6907db3b9d1b5d365de3fb.png" group-title="卫视",贵州卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/41/_new_410f2b6533e7ae383b03b92aae3de3a4.png" group-title="卫视",辽宁卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227485/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://live.pic.gitv.tv/images/20211209/a7/a767c1e152c2c388e3a06280b163153b.png" group-title="卫视",重庆卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://live.pic.gitv.tv/images/20190911/96/_new_96fe540c9fe910d10795205dddb3e33d.png" group-title="卫视",金鹰卡通
+http://ott.mobaibox.com/PLTV/4/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="http://live.pic.gitv.tv/images/20211116/c7/c74160f1bcadf7bf620da173411a3ea1.png" group-title="卫视",陕西农林卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227015/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/1a/1aa3d0b5d1dcab55c15655d069be9712.png" group-title="卫视",陕西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227022/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://live.pic.gitv.tv/images/20211105/e9/e9aa570a97c22a98e9a3452f5fc29782.png" group-title="卫视",青海卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://live.pic.gitv.tv/images/20190506/89/_new_896817e8ff4236a7276605c21dec1d3d.png" group-title="卫视",黑龙江卫视
+http://ott.mobaibox.com/PLTV/1/224/3221227514/index.m3u8
